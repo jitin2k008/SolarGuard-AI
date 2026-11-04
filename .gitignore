@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Internal AI agent / vibecoding session files
+AGENTS.md
+PROJECT_STATE.md
+PROJECT_HANDOFF.md
+SolarGuard_Brief_and_Architecture.md
+
+# Redundant baseline backup
+base/
+
+# Regenerable outputs (rebuilt by: python outputs/run_all.py)
+outputs/clean_table.csv
+outputs/expected_table.csv
+outputs/daily_ranking.csv
+outputs/cause_hypotheses.csv
+outputs/final_daily_ranking.csv
+outputs/plot_a_actual_vs_expected.png
+outputs/plot_b_gap_grid.png
+

@@ -168,16 +168,6 @@ flowchart LR
     style S fill:#f3f4f6,stroke:#6b7280,color:#1f2937
 ```
 
-<p align="center">
-  <img src="outputs/plot_a_actual_vs_expected.png" alt="Actual vs expected power for a flagged inverter" width="85%"/>
-  <br/><sub><b>Actual vs. expected</b>: a sample shortfall timeseries</sub>
-</p>
-
-<p align="center">
-  <img src="outputs/plot_b_gap_grid.png" alt="22 by 34 heatmap of daily gap percentage" width="85%"/>
-  <br/><sub><b>The 22 × 34 gap heatmap</b>: every inverter, every day</sub>
-</p>
-
 </details>
 
 <details>
